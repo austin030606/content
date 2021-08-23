@@ -1,3 +1,4 @@
+test
 # Contributing to the content of MDN Web Docs
 
 :tada: First of all, thanks for taking the time to contribute to
